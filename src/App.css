@@ -1,0 +1,46 @@
+/* src/App.css */
+body {
+    background-color: pink;
+    margin: 0;
+    font-family: Arial, sans-serif; 
+    background-color: pink;
+    color: #333; 
+}
+
+.container {
+    padding: 20px; 
+}
+
+h1 {
+    color: #343a40; /* Darker color for the header */
+  }
+  
+.alert {
+    margin-top: 15px;
+  }
+  
+.form-label {
+    font-weight: bold;
+  }
+  
+.btn-primary {
+    background-color: #007bff; /* Custom blue */
+    border: none;
+  }
+  
+.btn-primary:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+  }
+  
+.mb-3 {
+    margin-bottom: 1.5rem; /* Increased spacing */
+  }
+  
+input {
+    border-radius: 5px; /* Rounded input fields */
+  }
+  
+.is-invalid {
+    border-color: #dc3545; /* Red border for errors */
+  }
+  
